@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway&display=swap');
+body {
+  background-color: #404040;
+}
+	     a {
+  font-family: 'Raleway', sans-serif;
+  color: #ffd000;
+  text-align: center;
+}
+	  p {
+  font-family: 'Raleway', sans-serif;
+  color: white;
+  text-align: center;
+}
+   h1 {
+  font-family: 'Raleway', sans-serif;
+  color: white;
+  text-align: center;
+}
+   h2 {
+  font-family: 'Raleway', sans-serif;
+  color: white;
+  text-align: center;
+}
+   h3 {
+  font-family: 'Raleway', sans-serif;
+  color: white;
+  text-align: center;
+}
+   h4 {
+  font-family: 'Raleway', sans-serif;
+  color: white;
+  text-align: center;
+}
+   h5 {
+  font-family: 'Raleway', sans-serif;
+  color: white;
+}
+  text-align: center;
