@@ -65,9 +65,20 @@ body {
   top: 0;
   width: 100%;
 }
-   .btn {
+   .btnheader {
   border: none;
   background-color: #404040;
+  padding: 7px 14px;
+  color: white;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+  display: inline-block;
+}
+   .btnheader:hover {background: #dba100;}
+   .btn {
+  border: none;
+  background-color: #2b2b2b;
   padding: 7px 14px;
   color: white;
   border-radius: 5px;
