@@ -42,7 +42,7 @@ body {
   color: white;
 }
    .content {
-  max-width: 500px;
+  max-width: 600px;
   margin: auto;
 }
    .footer {
@@ -88,7 +88,7 @@ body {
 }
    .btn:hover {background: #dba100;}
    .box {
-  max-width: 500px;
+  max-width: 600px;
   margin: auto;
   text-align: left;
   background: #2b2b2b;
