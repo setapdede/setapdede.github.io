@@ -18,27 +18,27 @@ body {
   text-align: center;
 }
    h1 {
-  font-family: 'Segoe UI', sans-serif;
+  font-family: 'Raleway', sans-serif;
   color: white;
   text-align: left;
 }
    h2 {
-  font-family: 'Segoe UI', sans-serif;
+  font-family: 'Raleway', sans-serif;
   color: white;
   text-align: left;
 }
    h3 {
-  font-family: 'Segoe UI', sans-serif;
+  font-family: 'Raleway', sans-serif;
   color: white;
   text-align: left;
 }
    h4 {
-  font-family: 'Segoe UI', sans-serif;
+  font-family: 'Raleway', sans-serif;
   color: white;
   text-align: left;
 }
    h5 {
-  font-family: 'Segoe UI', sans-serif;
+  font-family: 'Raleway', sans-serif;
   color: white;
 }
    .content {
@@ -75,8 +75,15 @@ body {
   font-size: 16px;
   cursor: pointer;
   display: inline-block;
+  transition-duration: 0.2s;
 }
-   .btnheader:hover {background: #dba100;}
+   .btnheader:hover {background: #ffd000;}
+   .btnheader:hover,
+   .btnheader:active {
+  letter-spacing: 1px;
+  font-weight: bold;
+  color: #2b2b2b;
+}
    .btn {
   margin: 2px;
   border: none;
@@ -87,20 +94,15 @@ body {
   font-size: 16px;
   cursor: pointer;
   display: inline-block;
+  transition-duration: 0.2s;
 }
-   .btn:hover {background: #dba100;}
-   .btnred {
-  margin: 2px;
-  border: none;
-  background-color: #404040;
-  padding: 7px 14px;
-  color: white;
-  border-radius: 5px;
-  font-size: 16px;
-  cursor: pointer;
-  display: inline-block;
+   .btn:hover {background: #ffd000;}
+   .btn:hover,
+   .btn:active {
+  letter-spacing: 1px;
+  font-weight: bold;
+  color: #404040;
 }
-   .btnred:hover {background: #ad0707;}
    .box {
   max-width: 600px;
   margin: auto;
@@ -109,6 +111,7 @@ body {
   color: white;
   padding: 1px 20px;
   border-radius: 7px;
+  border: 1px solid white;
 }
 img {
   border-radius: 3%;
