@@ -12,6 +12,16 @@ body {
   color: white;
   text-align: left;
 }
+	  ul {
+  font-family: 'Segoe UI', sans-serif;
+  color: white;
+  text-align: left;
+}
+	  ol {
+  font-family: 'Segoe UI', sans-serif;
+  color: white;
+  text-align: left;
+}
 	  .pc {
   font-family: 'Segoe UI', sans-serif;
   color: white;
