@@ -4,7 +4,7 @@ body {
 }
 	     a {
   font-family: 'Segoe UI', sans-serif;
-  color: #ffd000;
+  color: #F3DE5F;
   text-align: left;
 }
 	  p {
@@ -87,10 +87,10 @@ body {
   display: inline-block;
   transition-duration: 0.2s;
 }
-   .btnheader:hover {background: #ffd000;}
+   .btnheader:hover {background: #F3DE5F;}
    .btnheader:hover,
    .btnheader:active {
-  color: #2b2b2b;
+  color: black;
 }
    .btn {
   margin: 2px;
@@ -104,10 +104,10 @@ body {
   display: inline-block;
   transition-duration: 0.2s;
 }
-   .btn:hover {background: #ffd000;}
+   .btn:hover {background: #F3DE5F;}
    .btn:hover,
    .btn:active {
-  color: #404040;
+  color: black;
 }
    .box {
   max-width: 600px;
